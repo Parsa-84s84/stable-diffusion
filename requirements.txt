@@ -1,0 +1,10 @@
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113
+numpy
+Pillow
+tqdm
+scipy
+einops
+transformers==4.19.2
+omegaconf==2.2.3
+pytorch-lightning==1.6.5
